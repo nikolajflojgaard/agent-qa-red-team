@@ -1,0 +1,113 @@
+{
+  "counts": {
+    "deployments": 0,
+    "entrypoints": 0,
+    "files": 11,
+    "flows": 0,
+    "frameworks": 0,
+    "interfaces": 0,
+    "manifests": 0,
+    "routes": 0
+  },
+  "deployments": [],
+  "entrypoints": [],
+  "files": [
+    {
+      "path": "LICENSE",
+      "size": 1074,
+      "suffix": "",
+      "tags": []
+    },
+    {
+      "path": "README.md",
+      "size": 1581,
+      "suffix": ".md",
+      "tags": []
+    },
+    {
+      "path": "SKILL.md",
+      "size": 5274,
+      "suffix": ".md",
+      "tags": []
+    },
+    {
+      "path": "code-docs.yml",
+      "size": 246,
+      "suffix": ".yml",
+      "tags": []
+    },
+    {
+      "path": "examples/findings-example.json",
+      "size": 1017,
+      "suffix": ".json",
+      "tags": []
+    },
+    {
+      "path": "references/reviewer-roles.md",
+      "size": 1464,
+      "suffix": ".md",
+      "tags": []
+    },
+    {
+      "path": "scripts/agent_qa_red_team.py",
+      "size": 6230,
+      "suffix": ".py",
+      "tags": []
+    },
+    {
+      "path": "templates/finding-schema.json",
+      "size": 539,
+      "suffix": ".json",
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "path": "templates/review-brief.md",
+      "size": 538,
+      "suffix": ".md",
+      "tags": []
+    },
+    {
+      "path": "templates/review-checklist.md",
+      "size": 950,
+      "suffix": ".md",
+      "tags": []
+    },
+    {
+      "path": "templates/review-report.md",
+      "size": 144,
+      "suffix": ".md",
+      "tags": []
+    }
+  ],
+  "flows": [],
+  "frameworks": [],
+  "interfaces": [],
+  "manifests": [],
+  "repo": "agent-qa-red-team",
+  "root": ".",
+  "routes": [],
+  "tree": {
+    "LICENSE": null,
+    "README.md": null,
+    "SKILL.md": null,
+    "code-docs.yml": null,
+    "examples": {
+      "findings-example.json": null
+    },
+    "references": {
+      "reviewer-roles.md": null
+    },
+    "scripts": {
+      "agent_qa_red_team.py": null
+    },
+    "templates": {
+      "finding-schema.json": null,
+      "review-brief.md": null,
+      "review-checklist.md": null,
+      "review-report.md": null
+    }
+  },
+  "truncated": false
+}

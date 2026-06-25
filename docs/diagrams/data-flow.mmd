@@ -1,0 +1,9 @@
+flowchart LR
+  Source[Data source]
+  Processor[Documentation pipeline]
+  Store[(Owned schema or model)]
+  Docs[Markdown and Mermaid docs]
+
+  Source -->|reads| Processor
+  Processor -->|writes| Store
+  Processor -->|updates| Docs
